@@ -3,9 +3,9 @@
 This repository serves as the official, foundational entry point for local school chapters of the **AI Youth Alliance (AIYA)**. It contains structured exercises, problem sets, and framework starter kits used during **AIYA Literacy Week**.
 
 ## 📁 Repository Structure - UNDER CONSTRUCTION
-*   `/coding-toolkits/` - Basic environments for testing prompt behaviors and algorithmic limitations.
-*   `/finance-toolkits/` - Python notebooks for simple predictive analysis and economic tracking.
-*   `/democracy-&-the-media-toolkits/` - Frameworks for problematizing and parametrizing the impact of AI on the media, the democratic discourse, and political outcomes, as well as devising solutions including testing text and voice patterns, deepfake classification metrics, etc.
+*   `/coding-toolkit/` - Basic environments for testing prompt behaviors and algorithmic limitations.
+*   `/finance-toolkit/` - Python notebooks for simple predictive analysis and economic tracking.
+*   `/democracy-&-the-media-toolkit/` - Frameworks for problematizing and parametrizing the impact of AI on the media, the democratic discourse, and political outcomes, as well as devising solutions including testing text and voice patterns, deepfake classification metrics, etc.
 
 ## ⚠️ Academic Notice & Cognitive Well-Being
 In alignment with recent cognitive science research (including landmark studies from MIT), AIYA explicitly warns against over-reliance on generative tooling. Offloading critical thought to automated systems causes measurable atrophy in analytical capacity, genuine subject mastery, and real authorship. 
