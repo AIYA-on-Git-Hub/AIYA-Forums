@@ -1,6 +1,6 @@
 # AIYA Forums Toolkit 🛠️
 
-This repository serves as the official, foundational entry point for local school chapters of the **AI Youth Alliance (AIYA)**. It contains structured exercises, problem sets, and framework starter kits used during **AIYA Literacy Week**.
+This repository serves as the official, foundational entry point for local school chapters of the **AI Youth Alliance (AIYA)**. It contains structured exercises, problem sets, and framework starter kits used for the **AIYA Coding Forum**, the **AIYA Finance Forum**, and the **AIYA Democracy and Media Forum**.
 
 ## 📁 Repository Structure - UNDER CONSTRUCTION
 *   `/coding-toolkit/` - Basic environments for testing prompt behaviors and algorithmic limitations.
