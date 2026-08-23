@@ -1,4 +1,4 @@
-# AIYA Literacy Toolkit 🛠️
+# AIYA Forums Toolkit 🛠️
 
 This repository serves as the official, foundational entry point for local school chapters of the **AI Youth Alliance (AIYA)**. It contains structured exercises, problem sets, and framework starter kits used during **AIYA Literacy Week**.
 
