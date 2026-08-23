@@ -15,4 +15,17 @@ Use the exercises in this repository to explore AI as a **force multiplier for y
 ## 🚀 Getting Started
 1. Clone this repository to your local machine.
 2. Coordinate with your school's **Faculty and Administrative Advisor** to clear local school network guidelines.
-3. For support, reach out to your local chapter lead or contact us directly at **[aiyouthalliance.org](https://aiyouthalliance.org)**.
+3. For support, reach out to your local chapter lead or contact us directly at **[aiyouthalliance.org](https://www.aiyouthalliance.org)**.
+
+---
+
+## 🤝 Connect with Us
+*   **Official Website:** [aiyouthalliance.org](https://www.aiyouthalliance.org)
+*   **Hugging Face:** [AIYA-on-Huggingface](https://huggingface.co)
+*   **Instagram:** [ai.youth.alliance](https://instagram.com)
+*   **Youtube:** [@AI_Youth_Alliance](https://youtube.com)
+*   **X (Twitter):** [@AIYA_on_X](https://x.com)
+*   **LinkedIn:** [AI Youth Alliance (AIYA)](https://linkedin.com)
+*   **Contact Email:** info@aiyouthalliance.org
+
+© 2026 AI Youth Alliance & Hey AI! Foundation. All Rights Reserved.
