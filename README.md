@@ -25,6 +25,7 @@ Use the exercises in this repository to explore AI as a **force multiplier for y
 *   **Instagram:** [ai.youth.alliance](https://instagram.com)
 *   **Youtube:** [@AI_Youth_Alliance](https://youtube.com)
 *   **X (Twitter):** [@AIYA_on_X](https://x.com)
+*   **Kaggle:** [aiyaonkaggle](https://kaggle.com)
 *   **LinkedIn:** [AI Youth Alliance (AIYA)](https://linkedin.com)
 *   **Contact Email:** info@aiyouthalliance.org
 
